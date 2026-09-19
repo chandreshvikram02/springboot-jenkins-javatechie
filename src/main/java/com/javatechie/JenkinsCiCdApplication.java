@@ -23,6 +23,8 @@ public class JenkinsCiCdApplication {
         SpringApplication.run(JenkinsCiCdApplication.class, args);
         System.out.println("welcome to jenkins family !!"); System.out.println("welcome to jenkins family !!");System.out.println("welcome to jenkins family !!");System.out.println("welcome to jenkins family !!");
        System.out.println("welldone");
+        System.out.println("welldone once again");
+        System.out.println("welldone once agains");
    }
 
 }
